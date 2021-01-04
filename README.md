@@ -1,6 +1,3 @@
-# sh-utils
-JavaScript Utils
-
 # JS 工具函数
 
 `JS`中一些常用的工具函数
